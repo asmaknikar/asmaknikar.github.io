@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Ashish Maknikar
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: ashish.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: asmaknikar@gmail.com
+    phone: 858 319 6629
     timezone: America/Cancun Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website:  #do not add http://
+    linkedin: as
     xing: alandoe
-    github: sharu725
+    github: asmaknikar
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -45,14 +45,12 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Surfing
           link:
 
-        - item: Snowboarding
+        - item: Soccer
           link:
 
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
@@ -66,8 +64,8 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: MSc in Electrical and Computer Engineering
+        university: University of California San Diego
         time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -92,9 +90,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Development Engineer - Full Stack, Forward Deployed
+        time: 2021 - 2022
+        company: Finmechanics Pvt. Limited
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -105,9 +103,11 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
+        - Designed financial static data management, currency-wise position and trade tracking, and card rate publishing services for CIMB on
+        the service-oriented Java, React and ExtJS technology stack.
+        - Spearheaded continuous server deployment and testing of features and fixes delivery for over 200 trading and sales UAT participants.
+        - Collaborated to design and develop integration solutions with legacy client systems through APIs and Camel file consumption routes.
+        - Automated Repo Trade management according to the Bond Exchange of South Africa convention for Windhoek Bank,SA.      
         time: 2014 - 2015
         company: Google, London
         details: |
@@ -131,45 +131,45 @@ experiences:
             - Bullet point
 
 certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+      # title: Certifications
+      # list:
+      #   - name: CV Builder
+      #     start: 2020
+      #     end: 2021
+      #     organization: Microsoft
+      #     credentialid: 111-222
+      #     credentialurl: www.google.com
+      #     credentialname: Google
+      #     details: |
+      #       Details about cert. Lorem ipsum dolor sit amet, consectetur
+      #       adipiscing elit.
+      #       Nullam eget orci purus. Nullam ultrices neque nibh.
+      #       Aenean fermentum, felis vulputate suscipit accumsan,
+      #       sem enim bibendum augue, sed convallis arcu lacus at dui.
+      #       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      #       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      #       Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+      #       Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+      #       fringilla vel. Ut euismod, sem sed vulputate venenatis,
+      #       justo diam viverra velit, sed rhoncus leo leo eu justo.
+      #       Suspendisse placerat risus ante, sed porta nisi blandit at.
+      #   - name: Git learning
+      #     start: 2019
+      #     end:
+      #     organization: Microsoft
+      #     credentialid: 111-222
+      #     credentialurl: www.github.com
+      #     credentialname: Github
+      #     details: |
+      #       Older certification. Lorem ipsum dolor sit amet, consectetur
+      #       adipiscing elit.
+      #       Nullam eget orci purus. Nullam ultrices neque nibh.
+      #       Aenean fermentum, felis vulputate suscipit accumsan,
+      #       sem enim bibendum augue, sed convallis arcu lacus at dui.
+      #       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      #       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      #       Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
@@ -199,67 +199,67 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    # title: OSS Contributions
+    # intro: >
+    #   You can list your open source software contributions in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # contributions:
+    #   - title: Tempo
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    #   - title: Atom
+    #     link: "#"
+    #     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    #   - title: Delta
+    #     link: "#"
+    #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    # title: Publications
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
+    # papers:
+    #   - title: The Art of Computer Programming
+    #     link: "#"
+    #     authors: Donald E. Knuth
+    #     conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #     link: "#"
+    #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    #   - title: A syntax directed compiler for Algol 60
+    #     link: "#"
+    #     authors: Edgar T. Irons
+    #     conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    # title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+    # toolset:
+    #   - name: Python & Django
+    #     level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+    #   - name: Javascript & jQuery
+    #     level: 98%
 
-      - name: Angular
-        level: 98%
+    #   - name: Angular
+    #     level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+    #   - name: HTML5 & CSS
+    #     level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+    #   - name: Ruby on Rails
+    #     level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+    #   - name: Sketch & Photoshop
+    #     level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
