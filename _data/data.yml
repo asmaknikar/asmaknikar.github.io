@@ -93,9 +93,8 @@ experiences:
       - role: Software Development Engineer
         time: Jun 2021 - Aug 2022
         company: Honeywell
-        details: |
-          
-          -Built a Kafka micro-services pipeline for ingesting, aggregating Iridium location reports, and merging them with other Honeywell location service providers and front-end services through subscription and APIs.
+        details: |             
+          - Built a Kafka micro-services pipeline for ingesting, aggregating Iridium location reports, and merging them with other Honeywell location service providers and front-end services through subscription and APIs.
           - Implemented a position prediction algorithm with Kalman filters and Bayes models to predict aircraft position in poor connectivity.
           - Improved client live-tracking services fidelity by conceiving and implementing push-based WebSockets on a NodeJS backend.
           - Repurposed multiple third party tracking data for applications in UAV and aircraft tracking and communication services.     
@@ -107,7 +106,14 @@ experiences:
           - Deployed Industrial smoke-stack image segmentation using the self-supervised segmentation model in ’Tracking Objects via colorization’. • Integrated and deployed neural network (SRN-Deblur) based motion de-blurring model for aerial drone footage.
           - Applied automated color-correction of weather and climate distorted aerial drone video using histogram matching.
           - Stitched multiple CCTV feeds of industrial work site into a single mosaic, applied helmet detection model for workplace safety.
-          - Created a single canvas mosaic of thermal solar panel inspection video using SIFT and ORB key-point tracking.        # time: 2014 - 2015
+          - Created a single canvas mosaic of thermal solar panel inspection video using SIFT and ORB key-point tracking. 
+
+      - role: Web Developer
+        time: Jan 2023 - Apr 2023
+        company: UC San Diego Alon Orlitsky
+        details: |
+          
+          - Design and maintenance for the 2023 ITA Conference website frontend and backend on a React and Django stack.
         # company: Google, London
         # details: |
         #   Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -251,4 +257,4 @@ skills:
     #     level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Surfs Up
