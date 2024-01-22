@@ -4,12 +4,12 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: Flase # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ashish Maknikar
-    tagline: Full Stack Developer
+    tagline: Technologist
     avatar: ashish.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -18,29 +18,19 @@ sidebar:
     timezone: America/Cancun Timezone
     citizenship:
     website:  #do not add http://
-    linkedin: as
-    xing: alandoe
+    linkedin: ashish-maknikar-27704615b/
+    xing: 
     github: asmaknikar
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter:'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: assets/AshishMaknikar020124_edlast.pdf
 
     languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
@@ -55,12 +45,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a passionate technology professional with a unique and diverse background in full stack development, machine learning engineering, computer vision, and robotics. My journey in the tech world has taken me through a variety of domains, each contributing to my multifaceted skill set and perspective.
+
+      What sets me apart is not just my technical expertise across multiple domains, but also my constant pursuit of challenging problems and my dedication to creating impactful solutions. I thrive in environments that offer sustained opportunities for growth, encourage innovation, and where the work I do significantly contributes to the organization and the industry at large.
+
+      As I look towards the future, I am excited to leverage my diverse background and skills in a role that challenges me, pushes the boundaries of what's possible, and leaves a lasting impact on the world of technology.
+        
+
 education:
     title: Education
     info:
@@ -75,9 +66,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Bachelors(Dual) in Robotics, Engineering
+        university: Indian Institute of Technology (IIT) Madras
+        time: 2016 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -91,44 +82,42 @@ experiences:
     title: Experiences
     info:
       - role: Software Development Engineer - Full Stack, Forward Deployed
-        time: 2021 - 2022
+        time: Jun 2021 - Aug 2022
         company: Finmechanics Pvt. Limited
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-        - Designed financial static data management, currency-wise position and trade tracking, and card rate publishing services for CIMB on
-        the service-oriented Java, React and ExtJS technology stack.
-        - Spearheaded continuous server deployment and testing of features and fixes delivery for over 200 trading and sales UAT participants.
-        - Collaborated to design and develop integration solutions with legacy client systems through APIs and Camel file consumption routes.
-        - Automated Repo Trade management according to the Bond Exchange of South Africa convention for Windhoek Bank,SA.      
-        time: 2014 - 2015
-        company: Google, London
+          
+          - Designed financial static data management, currency-wise position and trade tracking, and card rate publishing services for CIMB on the service-oriented Java, React and ExtJS technology stack.
+          - Spearheaded continuous server deployment and testing of features and fixes delivery for over 200 trading and sales UAT participants.
+          - Collaborated to design and develop integration solutions with legacy client systems through APIs and Camel file consumption routes.
+          - Automated Repo Trade management according to the Bond Exchange of South Africa convention for Windhoek Bank,SA.      
+      - role: Software Development Engineer
+        time: Jun 2021 - Aug 2022
+        company: Honeywell
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          
+          -Built a Kafka micro-services pipeline for ingesting, aggregating Iridium location reports, and merging them with other Honeywell location service providers and front-end services through subscription and APIs.
+          - Implemented a position prediction algorithm with Kalman filters and Bayes models to predict aircraft position in poor connectivity.
+          - Improved client live-tracking services fidelity by conceiving and implementing push-based WebSockets on a NodeJS backend.
+          - Repurposed multiple third party tracking data for applications in UAV and aircraft tracking and communication services.     
+      - role: Computer Vision Engineer
+        time: May 2019 - Jul 2019
+        company: Detect Technologies
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
+          - Deployed Industrial smoke-stack image segmentation using the self-supervised segmentation model in ’Tracking Objects via colorization’. • Integrated and deployed neural network (SRN-Deblur) based motion de-blurring model for aerial drone footage.
+          - Applied automated color-correction of weather and climate distorted aerial drone video using histogram matching.
+          - Stitched multiple CCTV feeds of industrial work site into a single mosaic, applied helmet detection model for workplace safety.
+          - Created a single canvas mosaic of thermal solar panel inspection video using SIFT and ORB key-point tracking.        # time: 2014 - 2015
+        # company: Google, London
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
+
 
 certifications:
       # title: Certifications
@@ -172,31 +161,31 @@ certifications:
       #       Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    # title: Projects
+    # intro: >
+    #   You can list your side projects in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # assignments:
+    #   - title: Velocity
+    #     link: "#hook"
+    #     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    #   - title: DevStudio
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    #   - title: Tempo
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    #   - title: Atom
+    #     link: "#"
+    #     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    #   - title: Delta
+    #     link: "#"
+    #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     # title: OSS Contributions
